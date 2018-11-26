@@ -2,3 +2,6 @@
 /IntJoukkoSovellus/build/
 .gradle/
 IntJoukkoSovellus/bin
+/Tennis/.nb-gradle/
+/Tennis/build/
+/Tennis/bin
